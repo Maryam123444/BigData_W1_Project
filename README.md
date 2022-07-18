@@ -1,0 +1,6 @@
+# BigData_W1_Project[Task1.txt](https://github.com/Maryam123444/BigData_W1_Project/files/9135214/Task1.txt)
+[Task1part(a).txt](https://github.com/Maryam123444/BigData_W1_Project/files/9135215/Task1part.a.txt)
+[Task2.txt](https://github.com/Maryam123444/BigData_W1_Project/files/9135216/Task2.txt)
+[Task3.txt](https://github.com/Maryam123444/BigData_W1_Project/files/9135217/Task3.txt)
+[Task4.txt](https://github.com/Maryam123444/BigData_W1_Project/files/9135218/Task4.txt)
+[Task_4 part(d).txt](https://github.com/Maryam123444/BigData_W1_Project/files/9135221/Task_4.part.d.txt)
